@@ -2,9 +2,9 @@
 
 ## To Do List (According to Priority)
 ### 1. INSERTING DATA
-- [x] Users
-- [x] Addresses
-- [x] Sellers
+- [x] ~~Users~~
+- [x] ~~Addresses~~
+- [x] ~~Sellers~~
 - [ ] Products
 - [ ] Variants
 - [ ] Discounts
